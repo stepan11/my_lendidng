@@ -1,1 +1,56 @@
+body {
+    background: #eee ;
+    font-family: , sans-serif;
+}
 
+.call_to_action article {
+    width: 330px;
+    position: absolute;
+    top: 17%;
+    right: 20%;
+    border-radius: 15px;
+    padding: 10px;
+    background-color: RGBA(255, 255, 255, 0,8);
+}
+
+.call_to_action img {
+    width: 100%;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 10px;
+}
+
+#signup {
+    width: auto;
+    height: 65px;
+    background-color: #c4bf81;
+    position: relative;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+#signup p {
+    margin-top: 17px;
+    margin-right: 250px;
+    width: auto;
+    position: absolute;
+    left: 45%;
+}
+
+#signup .signup {
+    margin-top: 17px;
+    margin-right: -350px;
+    width: auto;
+    position: absolute;
+    right: 50%;
+}
+
+#how_we_work {
+/*    float: left*/
+}
