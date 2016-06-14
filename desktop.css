@@ -51,6 +51,26 @@ nav ul li {
     right: 50%;
 }
 
+#objects {
+    width: 100%;
+    float: left;
+}
+
+.img-objects img {
+    width: 25%;
+    height: auto;
+    float: left;
+}
+
+.img-objects {
+    widows: 25%;
+    height: auto;
+    margin: 0;
+    border: solid 0;
+    padding: 0;
+}
+
 #how_we_work {
-/*    float: left*/
+    width: 33%
+    float: left;
 }
