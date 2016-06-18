@@ -48,7 +48,7 @@ nav ul li {
     margin-right: -350px;
     width: auto;
     position: absolute;
-    right: 50%;
+    right: 50%;s
 }
 
 #objects {
@@ -73,4 +73,7 @@ nav ul li {
 #how_we_work {
     width: 33%
     float: left;
+}
+#how_we_work>div {
+    display: inline-block;
 }
