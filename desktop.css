@@ -73,7 +73,14 @@ nav ul li {
 #how_we_work {
     width: 33%
     float: left;
+    margin: 7%;
 }
 #how_we_work>div {
     display: inline-block;
+}
+
+.map iframe {
+    width: 100%;
+    height: 600px;
+    border: solid 0;
 }
